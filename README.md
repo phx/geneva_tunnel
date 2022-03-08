@@ -14,7 +14,7 @@ Running `sudo geneva` will launch a browser by default, but you can feed it comm
 We will assume you have `git` installed.  If not, download the zip and alter the following as necessary:
 
 ```
-git clone https://github.com/0xdeadbeef0xbeefcafe/geneva_tunnel
+git clone https://github.com/phx/geneva_tunnel
 cd geneva_tunnel
 ./install.sh
 ```
